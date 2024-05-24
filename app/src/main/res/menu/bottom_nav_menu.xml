@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/add_home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/navigation_circular"
+        android:icon="@drawable/check_circle"
+        android:title="@string/circular" />
+</menu>
